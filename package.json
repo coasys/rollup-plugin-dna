@@ -1,0 +1,28 @@
+{
+  "name": "@perspect3vism/rollup-plugin-dna",
+  "version": "0.0.1",
+  "description": "Rollup-plugin to load DNA files as modules returning a string with base64 encoded binary data.",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perspect3vism/rollup-plugin-dna.git"
+  },
+  "keywords": [
+    "rollup-plugin",
+    "dna",
+    "holochain",
+    "ad4m"
+  ],
+  "author": "Nicolas Luck <nicolas@lucksus.eu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/perspect3vism/rollup-plugin-dna/issues"
+  },
+  "homepage": "https://github.com/perspect3vism/rollup-plugin-dna#readme"
+}
