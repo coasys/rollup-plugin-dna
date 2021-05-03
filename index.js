@@ -1,6 +1,6 @@
-import fs from "fs";
+const fs = require('fs');
 
-export default function dna() {
+function dna() {
   return {
     name: "dna",
     load: function load(id) {
@@ -11,3 +11,5 @@ export default function dna() {
     },
   };
 }
+
+module.exports = dna
