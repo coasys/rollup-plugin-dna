@@ -1,7 +1,7 @@
 {
   "name": "@perspect3vism/rollup-plugin-dna",
   "version": "0.0.1",
-  "description": "Rollup-plugin to load DNA files as modules returning a string with base64 encoded binary data.",
+  "description": "Rollup-plugin to load Holochain DNA files as modules returning a string with base64 encoded binary data.",
   "main": "index.js",
   "files": [
     "index.js"
