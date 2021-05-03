@@ -1,5 +1,5 @@
 # rollup-plugin-dna
-Rollup-plugin to load DNA files as modules returning a string with base64 encoded binary data.
+Rollup-plugin to load Holochain DNA files as modules returning a string with base64 encoded binary data.
 
 ## Usage
 ```javascript
